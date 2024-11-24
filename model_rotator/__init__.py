@@ -1,3 +1,3 @@
-from model_rotator import ModelRotator, Model
+from rotator import Model, ModelRotator
 
 __all__ = ['ModelRotator', 'Model']
